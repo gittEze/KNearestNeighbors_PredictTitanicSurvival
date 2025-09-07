@@ -1,13 +1,13 @@
 # # Clasificación de Supervivencia en el Titanic con K-Nearest Neighbors (KNN)
 
----
+-
 
 Este proyecto aplica Machine Learning para predecir la supervivencia de pasajeros del Titanic, utilizando el dataset público de Kaggle.  
 El objetivo es clasificar si un pasajero sobrevivió(1) o no(0) en función de sus características, empleando el algoritmo **K-Nearest Neighbors (k-NN)**.
 
 ---
 
-# Preparación de los Datos
+# Preparación de los datos
 Durante el preprocesamiento se realizaron las siguientes transformaciones:
 
 - Conversión de variables:
@@ -22,15 +22,15 @@ Durante el preprocesamiento se realizaron las siguientes transformaciones:
 
 ---
 
-# Variables Utilizadas X:
+# Variables utilizadas X:
 - `Sex`  
 - `Pclass`  
 - `Age`  
 
-# Variable Utilizada y:
+# Variable utilizada y:
 - `Survived` (0 = No sobrevivió, 1 = Sobrevivió).  
 
 ---
 
-Captura del podio obtenido:
+# Captura del podio obtenido:
 <img width="1089" height="588" alt="Captura" src="https://github.com/user-attachments/assets/2f2dc408-9a9f-4692-95d9-38435524aed1" />
